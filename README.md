@@ -116,3 +116,5 @@ and physics-informed / neuro-symbolic models. I also build and ship full-stack a
 ---
 
 <p align="center"><i>Open to research collaboration and interesting problems in quantum &amp; ML.</i></p>
+
+<!-- profile-readme -->
