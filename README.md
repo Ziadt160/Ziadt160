@@ -76,6 +76,14 @@ and physics-informed / neuro-symbolic models. I also build and ship full-stack a
 ### Featured Work
 
 <p align="center">
+  <a href="https://github.com/Ziadt160/BrainEmergence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=BrainEmergence&theme=default&hide_border=true" alt="BrainEmergence"/>
+  </a>
+  <a href="https://github.com/Ziadt160/SAL--Structure-Aware-Learning-for-Parameter-Efficient-Neuro-Symbolic-Modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=SAL--Structure-Aware-Learning-for-Parameter-Efficient-Neuro-Symbolic-Modeling&theme=default&hide_border=true" alt="SAL"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/Ziadt160/QSVT-A-First-Principles-C-Framework-for-Quantum-Singular-Value-Transformation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=QSVT-A-First-Principles-C-Framework-for-Quantum-Singular-Value-Transformation&theme=default&hide_border=true" alt="QSVT framework"/>
   </a>
@@ -83,20 +91,18 @@ and physics-informed / neuro-symbolic models. I also build and ship full-stack a
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=qiskit-migration-assistant&theme=default&hide_border=true" alt="qiskit-migration-assistant"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Ziadt160/SpecQ-Hamiltonian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=SpecQ-Hamiltonian&theme=default&hide_border=true" alt="SpecQ-Hamiltonian"/>
-  </a>
-  <a href="https://github.com/Ziadt160/PI-GNN-Dust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziadt160&repo=PI-GNN-Dust&theme=default&hide_border=true" alt="PI-GNN-Dust"/>
-  </a>
-</p>
 
-> **QSVT — A First-Principles C++ Framework** · Quantum Singular Value Transformation built from
-> the ground up in C++.
-> **qiskit-migration-assistant** · Tooling to migrate Qiskit codebases across API versions.
-> **SpecQ-Hamiltonian** · Spectral methods for quantum Hamiltonians.
-> **PI-GNN-Dust** · Physics-informed graph neural network.
+> **🧠 BrainEmergence** · A spiking neural network that recognizes images by *imagining* them —
+> it reconstructs occluded input top-down, then re-reads it. Paired with a rigorous negative-results
+> study of when brain-inspired generation actually beats simpler baselines. *(currently private)*
+>
+> **🧬 SAL — Structure-Aware Learning** · A neuro-symbolic framework where neurons are mutable
+> symbolic operators; discovers parameter-efficient architectures via gradient-importance +
+> simulated annealing. Solves 256-bit parity and models chaotic dynamics (Lorenz, double pendulum).
+>
+> **⚛️ QSVT** · A first-principles C++ framework for Quantum Singular Value Transformation.
+>
+> **🔧 qiskit-migration-assistant** · Tooling to migrate Qiskit codebases across API versions.
 
 ---
 
