@@ -94,7 +94,7 @@ and physics-informed / neuro-symbolic models. I also build and ship full-stack a
 
 > **🧠 BrainEmergence** · A spiking neural network that recognizes images by *imagining* them —
 > it reconstructs occluded input top-down, then re-reads it. Paired with a rigorous negative-results
-> study of when brain-inspired generation actually beats simpler baselines. *(currently private)*
+> study of when brain-inspired generation actually beats simpler baselines.
 >
 > **🧬 SAL — Structure-Aware Learning** · A neuro-symbolic framework where neurons are mutable
 > symbolic operators; discovers parameter-efficient architectures via gradient-importance +
